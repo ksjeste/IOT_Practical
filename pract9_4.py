@@ -28,17 +28,3 @@ except KeyboardInterrupt:
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-sudo raspi-config
-manisha@raspberrypi:~ $ pip3 install adafruit-circuitpython-pn532 --break-system-packages
-manisha@raspberrypi:~ $ sudo apt install -y libnfc-bin libnfc-dev libusb-dev libpcsclite-dev i2c-tools
-sudo nano /etc/nfc/libnfc.conf
-
-
